@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Haukai Restaurant Staff Only"
-AuthUserFile https://github.com/annexplorer/HRweb/tree/master/private/.htpasswd
+AuthUserFile https://github.com/annexplorer/HaukaiRestaurantFinal/blob/master/private/.htpasswd
 Require valid-user
