@@ -484,9 +484,6 @@ body {
 	.staff-sched {
 		margin-left: 90px; height: auto; margin-bottom:50px; overflow: hidden;
 	}
-	.sched-container {
-		max-width: 60%; height: 150px; background-color: blue;
-	}
 
 	/*Style for footer*/
 	footer {
