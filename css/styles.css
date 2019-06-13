@@ -479,7 +479,15 @@ body {
 	.privacypol {
 		padding-left: 50px;
 	}
-	
+	/*Style for Staff page*/
+
+	.staff-sched {
+		margin-left: 90px; height: auto; margin-bottom:50px; overflow: hidden;
+	}
+	.sched-container {
+		max-width: 60%; height: 150px; background-color: blue;
+	}
+
 	/*Style for footer*/
 	footer {
 	max-width: 100%; height: auto; padding: 2px; background-color: #333;
